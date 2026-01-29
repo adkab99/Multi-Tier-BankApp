@@ -1,8 +1,1 @@
-@SpringBootTest
-@ActiveProfiles("test")
-class BankappApplicationTests {
-
-    @Test
-    void contextLoads() {
-    }
-}
+CREATE DATABASE bankappdb;
